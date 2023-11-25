@@ -6,8 +6,8 @@
 			<img alt="logo" src="https://i.imgur.com/sxR2H0t.png" width="300px">
 		</picture>
 		<br>
-		<a href="https://catgir.ls">noteleaks.pro</a> •
-		<a href="https://github.com/catgir-ls/.github/tree/main/config">website</a> •
-		<a href="https://github.com/catgir-ls/.github/blob/main/profile/PRIVACY.md">discord</a>
+		<a href="https://noteleaks.pro/">noteleaks.pro</a> •
+		<a href="https://noteleaks.pro/">website</a> •
+		<a href="https://discord.gg/5HW7j7EjQx">discord</a>
 	</h3>
 </div>
